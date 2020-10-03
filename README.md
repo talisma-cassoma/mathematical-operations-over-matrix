@@ -1,6 +1,6 @@
 # A propros des pointeurs
 
-**[POINTEUR](url)**  c'est une variable qui a l'adresse dune autre variable
+**[POINTEUR](url= 'https://fr.wikipedia.org/wiki/Pointeur_(programmation)')**  c'est une variable qui a l'adresse dune autre variable
 
 
 [**n**](url) est l'adresse de la variable pointée 
