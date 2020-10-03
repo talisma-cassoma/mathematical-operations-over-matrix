@@ -3,12 +3,12 @@
 **[POINTEUR](https://fr.wikipedia.org/wiki/Pointeur_(programmation))**  c'est une variable qui a l'adresse dune autre variable
 
 
-[**n**](url) est l'adresse de la variable pointée 
+**n** est l'adresse de la variable pointée 
 
-[***n**](url) c'est la valeur de la variable  pointée
+***n** c'est la valeur de la variable  pointée
 
 
-[**&n**](url) c'est l'adresse du pointeur
+**&n** c'est l'adresse du pointeur
 */
 
 int 	*p=NULL;  **// si on n'initialise pas le pointeur ou on initialise avec NULL 
