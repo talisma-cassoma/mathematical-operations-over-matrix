@@ -1,6 +1,6 @@
 # A propros des pointeurs
 
-**[POINTEUR](url= 'https://fr.wikipedia.org/wiki/Pointeur_(programmation)')**  c'est une variable qui a l'adresse dune autre variable
+**[POINTEUR](https://fr.wikipedia.org/wiki/Pointeur_(programmation))**  c'est une variable qui a l'adresse dune autre variable
 
 
 [**n**](url) est l'adresse de la variable pointée 
@@ -25,7 +25,6 @@ printf("%p\n",p);  **// adresse de a (en exadecimal)**
 printf("%p\n",&p);  **// adresse du pointeur p (en exadecimal)**
 
 printf("%p\n",*p);  **// valeur de a**
-
 
 
 
