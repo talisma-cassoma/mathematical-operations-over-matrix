@@ -16,6 +16,8 @@ int 	*p=NULL;  **// si on n'initialise pas le pointeur ou on initialise avec NUL
 
 p=&a;
 
+**DIFFERENCES:**
+
 printf("%d\n",&a); **// adresse de a** 
 
 printf("%p\n",&a); **// adresse de a (en exadecimal)**
